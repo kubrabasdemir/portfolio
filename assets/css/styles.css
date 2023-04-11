@@ -798,9 +798,3 @@ footer.entry-meta .meta-in {
   }
 }
 
-p.spip {
-  /** Le texte est justifié */
-  text-align: justify;
-  /** On indente le texte de l'espace représentant 5 caractères */
-  text-indent: 5em;
-}
